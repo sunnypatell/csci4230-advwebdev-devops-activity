@@ -3,7 +3,6 @@
 # course: csci 4230 advanced web development
 # activity 8: unit tests for flask api
 
-import json  # inline: build json payloads for requests
 import pytest  # inline: test runner
 from app import create_app  # inline: app factory
 
