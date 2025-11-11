@@ -1,0 +1,18 @@
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# tools
+.DS_Store
+
+# coverage / pytest
+.coverage
+coverage.xml
+.pytest_cache/
+
+# virtualenv/ide
+.env
+.vscode/
+.idea/
